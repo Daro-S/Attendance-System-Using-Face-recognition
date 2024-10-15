@@ -3,7 +3,7 @@ Team Member:
 - Sim Daro ( Machine Learning Engineer )
 - Vuthy Panha ( Software Developer & UX/UI Designer )
 - Teng Thaisothyrak ( Machine Learning Engineer )
-- Than Rattanak ( Software Developer & UX/UI Designer )
+- Than Ratanak ( Software Developer & UX/UI Designer )
 
 ## Project Overview
 

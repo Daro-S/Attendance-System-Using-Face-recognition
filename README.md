@@ -5,6 +5,8 @@ Team Member:
 - Teng Thaisothyrak ( Machine Learning Engineer )
 - Than Ratanak ( Software Developer & UX/UI Designer )
 
+Project's Document (Demo) : [Google Drive Link](https://drive.google.com/drive/folders/1jRKjnytGBPqlul3HYHCjVkn-0rHuindW?usp=sharing)
+
 ## Project Overview
 
 This project is developed as part of **Capstone Project 2** at **Cambodia Academy of Digital Technology (CADT)**. The primary objective of this project is to leverage knowledge in **Computer Vision** and **Artificial Intelligence (AI)** to automate and improve the traditional manual attendance system.

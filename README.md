@@ -1,4 +1,9 @@
 # Attendance System Using Face Recognition
+Team Member:
+- Sim Daro
+- Vuthy Panha
+- Teng Thaisothyrak
+- Than Rattanak
 
 ## Project Overview
 
